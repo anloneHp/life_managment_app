@@ -1,0 +1,33 @@
+{
+    "hafta": {
+      "pazartesi": {
+        "durum": "güneşli",
+        "sıcaklık": "25°C"
+      },
+      "salı": {
+        "durum": "parçalı bulutlu",
+        "sıcaklık": "22°C"
+      },
+      "çarşamba": {
+        "durum": "yağmurlu",
+        "sıcaklık": "18°C"
+      },
+      "perşembe": {
+        "durum": "bulutlu",
+        "sıcaklık": "20°C"
+      },
+      "cuma": {
+        "durum": "fırtınalı",
+        "sıcaklık": "15°C"
+      },
+      "cumartesi": {
+        "durum": "karlı",
+        "sıcaklık": "5°C"
+      },
+      "pazar": {
+        "durum": "sisli",
+        "sıcaklık": "10°C"
+      }
+    }
+  }
+  

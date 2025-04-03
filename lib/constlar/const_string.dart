@@ -1,0 +1,34 @@
+class ConstString {
+  static const login = "Giriş Yap";
+  static const register = "Kaydol";
+  static const merhaba = "Merhaba";
+  static const homePage = "Ana Sayfa";
+  static const lisTtile = "ListTile";
+  static const username = "Kullanici Adi";
+  static const sifre = "Şifre";
+  static const isim = "İsim";
+  static const phoneNumber = "Telefon Numarası";
+  static const basaraliGiris = "Giriş Başarılı";
+  static const basarisizGiris = "Giriş Başarısız";
+  static const bos = "Verilen alanlar Boş Bırakılamaz";
+  static const kayitBasarli = "Kayit Başarılı";
+  static const kayitBasarisiz = "Kayit Başarısız";
+  static const oyuncuekle = "Oyuncu Ekle";
+  static const oyuncuAdi = "Oyuncu Adi";
+  static const iptal = "İptal Et";
+  static const ekle = "Ekle";
+  static const sahaniz = "Sahanız";
+  static const music = "Müzik Kayıtlarınız";
+  static const addMusic = "Müzik Ekle";
+  static const songer = "Şarkıcı";
+  static const notFound = "Bulunamadı";
+  static const song = "Şarki";
+  static const welcome = "Hoşgeldin";
+  static const regSt = "Kayıtlarını Oluşturmaya Başla";
+  static const today = "Bugün";
+  static const tempature = "Derece";
+  static const wind = "Rüzgar";
+  static const humidity = "Nem";
+  static const activites = "Aktivite Listesi";
+  static const cardView = "Card";
+}

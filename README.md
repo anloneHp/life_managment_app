@@ -34,6 +34,7 @@ Duyarlı (responsive) tasarım
 Teknik Altyapı
 
 Kullanılan Paketler:
+
 sqflite: Yerel veritabanı işlemleri için
 
 http: API istekleri için

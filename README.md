@@ -5,7 +5,8 @@ bu proje kullanıcıların gündelik hayatta karşılaştığı durumları kayı
 
 ##Uygulama Tanitimi
 https://www.youtube.com/watch?v=btnZK-g6sas&t=1s
-Proje Özellikleri
+
+##Proje Özellikleri
 1. Kullanıcı Yönetimi
 Kullanıcı kaydı ve girişi
 Kullanıcı profili yönetimi
